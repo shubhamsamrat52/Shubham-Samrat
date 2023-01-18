@@ -6,7 +6,7 @@ I'm Currently Learning.
 <p align="left">
 <h4>Social 👇🏻<h4/>
 <a href="mailto:shubhamsamrat22@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="shubhamsamrat52" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shubhamkumar52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsamrat52" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shubhamkumar52/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.svgrepo.com/show/110195/linkedin.svg)" alt="shubhamsamrat52" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/shubhamsamrat52" target="blank"><img align="center" src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="shubhamsamrat52" height="40" width="40" /></a><br>
 
 # 💻 Tech Stack:
