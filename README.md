@@ -8,7 +8,7 @@ I'm Currently Learning.
 <a href="mailto:shubhamsamrat22@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="shubhamsamrat52" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shubhamkumar52/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="shubhamsamrat52" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/shubhamsamrat52" target="blank"><img align="center" src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="shubhamsamrat52" height="40" width="40" />
-<a href="https://www.instagram.com/shubhamsamrat52/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png" alt="shubhamsamrat52" height="40" width="40" /></a><br>
+<a href="https://www.instagram.com/shubhamsamrat52/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png" alt="shubhamsamrat52" height="52" width="52" /></a><br>
 
 
 # 💻 Tech Stack:
