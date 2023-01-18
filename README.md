@@ -13,15 +13,15 @@ I'm Currently Learning.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saurav-TB-Pandey&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamsamrat52&theme=radical&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saurav-TB-Pandey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shubhamsamrat52&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saurav-TB-Pandey&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shubhamsamrat52&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
