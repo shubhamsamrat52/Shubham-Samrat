@@ -2,10 +2,12 @@
 I'm Currently Learning.
 
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkumar52/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shubhamsamrat52) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shubhamsamrat52/)
+<h3 align="left">📩 Connect with me:</h3>
+<p align="left">
+<h4>Social 👇🏻<h4/>
+<a href="mailto:shubhamsamrat22@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="shubhamsamrat52" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shubhamkumar52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsamrat52" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/shubhamsamrat52" target="blank"><img align="center" src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="shubhamsamrat52" height="40" width="40" /></a><br>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
